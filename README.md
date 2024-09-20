@@ -4,7 +4,7 @@
 
 **//---------//---------//---------//---------//---------//---------//---------//---------//---------//---------//**
 
--_Estou estudando na _[Alura](https://www.alura.com.br)
+-_Estou visitando a_[Alura](https://www.alura.com.br)
 
 -_Estou me desenvolvendo na linguagem JavaScript_
 
