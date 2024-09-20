@@ -6,7 +6,7 @@
 
 -_Estou estudando na Alura_
 
--_Estou me desenvolvendo na linguagem JavaScript
+-_Estou me desenvolvendo na linguagem JavaScript_
 
 -_Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos_
 
