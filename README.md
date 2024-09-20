@@ -1,4 +1,4 @@
-## Contemple o  perfil enxuberante perfil JubivaldoFive🐥
+## Contemple o  perfil enxuberante de JubivaldoFive🐥
 
 **Eu sou Jubivalo V**
 
